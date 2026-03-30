@@ -1,7 +1,5 @@
-# emergency-resource-allocation--ambulance
-
 # 🚑 Emergency Resource Allocation using Reinforcement Learning
-
+"This project focuses on the decision-making intelligence behind emergency systems, not just visualization.”
 ## 📌 Problem Statement
 Efficient allocation of limited emergency resources (like ambulances or medical supplies) is critical in time-sensitive situations.
 
