@@ -1,3 +1,4 @@
+grdio
 numpy
 pyyaml
 huggingface_hub
