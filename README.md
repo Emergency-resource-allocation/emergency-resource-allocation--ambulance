@@ -1,3 +1,14 @@
+---
+title: Emergency Resource Allocation
+emoji: 🚑
+colorFrom: blue
+colorTo: green
+sdk: gradio
+sdk_version: 6.11.0
+python_version: '3.10'
+app_file: app.py
+pinned: false
+---
 # Emergency Resource Allocation — OpenEnv Environment
 
 A complete, real-world **OpenEnv**-compliant environment built for an
