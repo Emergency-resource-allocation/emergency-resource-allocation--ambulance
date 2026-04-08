@@ -1,6 +1,5 @@
 grdio
 fastapi
-numpy
-pyyaml
-huggingface_hub
+uvicorn
 requests
+pydantic
