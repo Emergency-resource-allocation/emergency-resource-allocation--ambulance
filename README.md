@@ -9,6 +9,11 @@ python_version: '3.10'
 app_file: app.py
 pinned: false
 ---
+## Demo Screenshot
+
+
+
+![Demo Output](demo.png)
 # Emergency Resource Allocation — OpenEnv Environment
 
 A complete, real-world **OpenEnv**-compliant environment built for an
