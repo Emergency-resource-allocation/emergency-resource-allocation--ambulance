@@ -3,10 +3,8 @@ title: Emergency Resource Allocation
 emoji: 🚑
 colorFrom: blue
 colorTo: green
-sdk: gradio
-sdk_version: 6.11.0
-python_version: '3.10'
-app_file: app.py
+sdk: docker
+app_port: 7860
 pinned: false
 ---
 ## Demo Screenshot
