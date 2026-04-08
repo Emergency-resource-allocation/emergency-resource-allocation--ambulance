@@ -1,4 +1,5 @@
 grdio
+fastapi
 numpy
 pyyaml
 huggingface_hub
